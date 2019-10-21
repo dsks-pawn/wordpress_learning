@@ -1,0 +1,2 @@
+# isobar-all
+all project
